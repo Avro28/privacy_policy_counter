@@ -8,7 +8,7 @@ PRINCIPLES: We follow simple principles when it comes to your data:
 • Your data is not shared with anyone, at any time
 • Your data does not leave your device without your explicit consent
 
-INFORMATION YOU PROVIDE: You need to provide the number of times you have chanted. This information is only used on-device, and is not shared with any third-party.
+INFORMATION YOU PROVIDE: You need to provide the number of times you have chanted. This information is required for the app to function. Also, this information is only used on-device, and is not shared with any third-party.
 
 MANAGING YOUR INFORMATION: All information used by HK Counter is stored on-device, and can be managed through Android’s system controls.
 
@@ -16,5 +16,5 @@ HOW WE SHARE YOUR INFORMATION: We do not share any information at any time.
 
 UPDATES: This privacy policy will be updated as needed so that it is accurate, current, and clear.
 
-CONTACT US: If you have questions about this Privacy Policy please contact ajs280306@gmail.com.
+CONTACT US: If you have questions about this Privacy Policy please contact the maintainer of HK Counter, Avrojyoti Saha, via ajs280306@gmail.com.
 
