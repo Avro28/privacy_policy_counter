@@ -8,7 +8,7 @@ PRINCIPLES: We follow simple principles when it comes to your data:
 • Your data is not shared with anyone, at any time
 • Your data does not leave your device without your explicit consent
 
-INFORMATION YOU PROVIDE: The count of your chant is to be provided. This information is only used on-device, and is not shared with any third-party.
+INFORMATION YOU PROVIDE: You need to provide the number of times you have chanted. This information is only used on-device, and is not shared with any third-party.
 
 MANAGING YOUR INFORMATION: All information used by HK Counter is stored on-device, and can be managed through Android’s system controls.
 
